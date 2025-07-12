@@ -1,1 +1,1 @@
-# sri-skada-pg
+# sri-skanda-pg
